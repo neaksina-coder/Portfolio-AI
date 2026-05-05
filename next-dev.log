@@ -6,9 +6,10 @@
   - Local:        http://localhost:3000
   - Environments: .env.local
 
- ✓ Ready in 1240ms
- ✓ Compiled / in 852ms (206 modules)
- ✓ Compiled /api/query in 54ms (66 modules)
- ✓ Compiled in 49ms (192 modules)
- ✓ Compiled /api/query in 72ms (222 modules)
- ✓ Compiled in 96ms (222 modules)
+ ✓ Ready in 1234ms
+ ✓ Compiled / in 879ms (208 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled /api/query in 52ms (67 modules)
+ ✓ Compiled in 110ms (206 modules)
+ ✓ Compiled in 97ms (206 modules)
+ ✓ Compiled /api/query in 22ms (66 modules)
